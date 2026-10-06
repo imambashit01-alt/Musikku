@@ -1,0 +1,2 @@
+ALTER TABLE tracks ADD COLUMN lyrics_text TEXT;
+ALTER TABLE tracks ADD COLUMN lyrics_offset REAL NOT NULL DEFAULT 0;

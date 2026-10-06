@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+client/dist/
+server/dist/
+build/desktop-server-node-modules/
+build/desktop-node.exe
+build/desktop-update-config.json
+data/
+server/data/
+release/
+.env
+*.tsbuildinfo
+coverage/
+npm-debug.log*
